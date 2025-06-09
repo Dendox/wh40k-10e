@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" name="Imperium - Space Wolves" revision="100" battleScribeVersion="2.03">
+  <author>Generated from Codex Space Wolves</author>
+  <authorContact>auto</authorContact>
+  <gameSystemId>00000000-0000-0000-0000-000000000000</gameSystemId>
+  <gameSystemRevision>100</gameSystemRevision>
+  <sharedSelectionEntries>
+    <selectionEntry name="Arjac Rockfist" type="unit" id="unit-Arjac_Rockfist"><profiles><profile name="Arjac Rockfist" typeName="Unit"><characteristics><characteristic name="M">6</characteristic><characteristic name="T">5</characteristic><characteristic name="Sv">2+</characteristic><characteristic name="W">6</characteristic><characteristic name="Ld">6</characteristic><characteristic name="OC">1</characteristic><characteristic name="Invulnerable Save">4+</characteristic></characteristics></profile><profile name="Foehammer" typeName="Weapon"><characteristics><characteristic name="Range">6"</characteristic><characteristic name="A">1</characteristic><characteristic name="BS">2+</characteristic><characteristic name="S">8</characteristic><characteristic name="AP">-2</characteristic><characteristic name="D">3</characteristic><characteristic name="Keywords">Anti-Monster 3+, Anti-Vehicle 3+, Assault</characteristic></characteristics></profile><profile name="Foehammer (Melee)" typeName="Weapon"><characteristics><characteristic name="Range">Melee</characteristic><characteristic name="A">5</characteristic><characteristic name="WS">2+</characteristic><characteristic name="S">8</characteristic><characteristic name="AP">-2</characteristic><characteristic name="D">3</characteristic><characteristic name="Keywords">Anti-Monster 3+, Anti-Vehicle 3+, Precision</characteristic></characteristics></profile></profiles><categories><categoryEntry name="Infantry"/><categoryEntry name="Character"/><categoryEntry name="Epic Hero"/><categoryEntry name="Imperium"/><categoryEntry name="Terminator"/><categoryEntry name="Arjac Rockfist"/><categoryEntry name="Adeptus Astartes"/><categoryEntry name="Space Wolves"/></categories><infoGroups><infoGroup name="Abilities"><infoLink name="Core"><description>Deep Strike, Leader</description></infoLink><infoLink name="Faction"><description>Oath of Moment</description></infoLink><infoLink name="Anvil of Endurance"><description>While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.</description></infoLink><infoLink name="Champion of the Kingsguard"><description>Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll.</description></infoLink></infoGroup></infoGroups><infoLinks><infoLink name="Unit Composition"><description>1 Arjac Rockfist - Epic Hero
+This model is equipped with: Foehammer</description></infoLink><infoLink name="Leader"><description>This model can be attached to the following unit: Wolf Guard Terminators</description></infoLink></infoLinks></selectionEntry>
+    <selectionEntry name="Bjorn the Fell-Handed" type="unit" id="unit-Bjorn_the_Fell-Handed"/>
+    <selectionEntry name="Blood Claws" type="unit" id="unit-Blood_Claws"/>
+    <selectionEntry name="Fenrisian Wolves" type="unit" id="unit-Fenrisian_Wolves"/>
+    <selectionEntry name="Grey Hunters" type="unit" id="unit-Grey_Hunters"/>
+    <selectionEntry name="Iron Priest" type="unit" id="unit-Iron_Priest"/>
+    <selectionEntry name="Logan Grimnar" type="unit" id="unit-Logan_Grimnar"/>
+    <selectionEntry name="Murderfang" type="unit" id="unit-Murderfang"/>
+    <selectionEntry name="Njal Stormcaller" type="unit" id="unit-Njal_Stormcaller"/>
+    <selectionEntry name="Ragnar Blackmane" type="unit" id="unit-Ragnar_Blackmane"/>
+    <selectionEntry name="Thunderwolf Cavalry" type="unit" id="unit-Thunderwolf_Cavalry"/>
+    <selectionEntry name="Ulrik the Slayer" type="unit" id="unit-Ulrik_the_Slayer"/>
+    <selectionEntry name="Venerable Dreadnought" type="unit" id="unit-Venerable_Dreadnought"/>
+    <selectionEntry name="Wolf Guard Battle Leader" type="unit" id="unit-Wolf_Guard_Battle_Leader"/>
+    <selectionEntry name="Wolf Guard Headtakers" type="unit" id="unit-Wolf_Guard_Headtakers"/>
+    <selectionEntry name="Wolf Guard Terminators" type="unit" id="unit-Wolf_Guard_Terminators"/>
+    <selectionEntry name="Wolf Priest" type="unit" id="unit-Wolf_Priest"/>
+    <selectionEntry name="Wulfen" type="unit" id="unit-Wulfen"/>
+    <selectionEntry name="Wulfen Dreadnought" type="unit" id="unit-Wulfen_Dreadnought"/>
+    <selectionEntry name="Wulfen with Storm Shields" type="unit" id="unit-Wulfen_with_Storm_Shields"/>
+  </sharedSelectionEntries>
+</catalogue>
