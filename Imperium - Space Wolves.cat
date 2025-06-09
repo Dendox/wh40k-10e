@@ -534,6 +534,46 @@
         <categoryLink targetId="740a-892c-8958-defa" id="821c-30e2-1fc4-c01e" primary="false" name="Terminator"/>
         <categoryLink targetId="88ee-e662-b0c6-43cd" id="d85a-feba-1249-defb" primary="false" name="Arjac Rockfist"/>
       </categoryLinks>
+      <infoLinks>
+        <infoLink name="Deep Strike" hidden="false" type="rule" id="d192-5a49-bce3-4eff" targetId="7cb5-dd6b-dd87-ad3b"/>
+        <infoLink name="Invulnerable Save" hidden="false" type="profile" id="f455-7682-301d-c6dc" targetId="db19-dee7-9530-ef0e"/>
+        <infoLink name="Leader" hidden="false" type="rule" id="8d8f-cc91-78eb-3179" targetId="b4dd-3e1f-41cb-218f"/>
+        <infoLink name="Oath of Moment" hidden="false" type="rule" id="7ba8-31b8-6ca6-b113" targetId="3b76-4053-ece9-6e7d"/>
+      </infoLinks>
+      <profiles>
+        <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8970-5680-4afc-a67d">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+
+■ Relic Terminator Squad
+■ Terminator Assault Squad
+■ Terminator Squad
+■ Wolf Guard Terminators
+
+You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Arjac Rockfist" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="e310-d3d-aaca-eaac">
+          <characteristics>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6</characteristic>
+            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
+            <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
+            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">6</characteristic>
+            <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
+            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Anvil of Endurance" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="6d1-52cc-8cb0-740c">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength.</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Champion of the Kingsguard" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d65d-22ee-7d91-448a">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">You can target this model with the Epic Challenge Stratagem for 0CP. In addition, each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Foehammer" hidden="false" id="1d31-8502-403e-75b8">
           <constraints>
@@ -543,13 +583,13 @@
           <profiles>
             <profile name="Foehammer" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="1a1f-8367-fbf4-9cb0">
               <characteristics>
-                <characteristic name="Range" typeId="914c-b413-91e3-a132">Melee</characteristic>
-                <characteristic name="A" typeId="2337-daa1-6682-b110">5</characteristic>
+                <characteristic name="Range" typeId="914c-b413-91e3-a132">6"</characteristic>
+                <characteristic name="A" typeId="2337-daa1-6682-b110">1</characteristic>
                 <characteristic name="WS" typeId="95d1-95f-45b4-11d6">2+</characteristic>
                 <characteristic name="S" typeId="ab33-d393-96ce-ccba">8</characteristic>
                 <characteristic name="AP" typeId="41a0-1301-112a-e2f2">-2</characteristic>
                 <characteristic name="D" typeId="3254-9fe6-d824-513e">3</characteristic>
-                <characteristic name="Keywords" typeId="893f-9000-ccf7-648e">Anti-MONSTER 2+</characteristic>
+                <characteristic name="Keywords" typeId="893f-9000-ccf7-648e">Anti-MONSTER 3+, Anti-VEHICLE 3+, Assault</characteristic>
               </characteristics>
             </profile>
             <profile name="Foehammer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="2f1b-d727-df9d-7049">
@@ -560,7 +600,7 @@
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
                 <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
                 <characteristic name="D" typeId="a354-c1c8-a745-f9e3">3</characteristic>
-                <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Anti-MONSTER 2+, Assault</characteristic>
+                <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Anti-MONSTER 3+, Anti-VEHICLE 3+, Assault</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -573,8 +613,7 @@
       <entryLinks>
         <entryLink import="true" name="Warlord" hidden="false" type="selectionEntry" id="2623-5127-398d-59a7" targetId="caa-f869-3cbd-b48e"/>
       </entryLinks>
-    <profiles><profile name="Arjac Rockfist" typeName="Unit"><characteristics><characteristic name="M">6</characteristic><characteristic name="T">5</characteristic><characteristic name="Sv">2+</characteristic><characteristic name="W">6</characteristic><characteristic name="Ld">6</characteristic><characteristic name="OC">1</characteristic><characteristic name="Invulnerable Save">4+</characteristic></characteristics></profile><profile name="Foehammer" typeName="Weapon"><characteristics><characteristic name="Range">6"</characteristic><characteristic name="A">1</characteristic><characteristic name="BS">2+</characteristic><characteristic name="S">8</characteristic><characteristic name="AP">-2</characteristic><characteristic name="D">3</characteristic><characteristic name="Keywords">Anti-Monster 3+, Anti-Vehicle 3+, Assault</characteristic></characteristics></profile><profile name="Foehammer (Melee)" typeName="Weapon"><characteristics><characteristic name="Range">Melee</characteristic><characteristic name="A">5</characteristic><characteristic name="WS">2+</characteristic><characteristic name="S">8</characteristic><characteristic name="AP">-2</characteristic><characteristic name="D">3</characteristic><characteristic name="Keywords">Anti-Monster 3+, Anti-Vehicle 3+, Precision</characteristic></characteristics></profile></profiles><categories><categoryEntry name="Infantry"/><categoryEntry name="Character"/><categoryEntry name="Epic Hero"/><categoryEntry name="Imperium"/><categoryEntry name="Terminator"/><categoryEntry name="Arjac Rockfist"/><categoryEntry name="Adeptus Astartes"/><categoryEntry name="Space Wolves"/></categories><infoLinks><infoLink name="Unit Composition"><description>1 Arjac Rockfist - Epic Hero
-This model is equipped with: Foehammer</description></infoLink><infoLink name="Leader"><description>This model can be attached to the following unit: Wolf Guard Terminators</description></infoLink></infoLinks><infoGroups><infoGroup name="Abilities"><infoLink name="Core"><description>Deep Strike, Leader</description></infoLink><infoLink name="Faction"><description>Oath of Moment</description></infoLink><infoLink name="Anvil of Endurance"><description>While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.</description></infoLink><infoLink name="Champion of the Kingsguard"><description>Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll.</description></infoLink></infoGroup></infoGroups></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Ulrik the Slayer" hidden="false" id="fc7c-83a5-7106-41ab">
       <infoLinks>
         <infoLink name="Leader" hidden="false" type="rule" id="1116-112f-8637-63ec" targetId="b4dd-3e1f-41cb-218f"/>
