@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="94bb-3284-ee14-57a1" name="Imperium - Adeptus Astartes - Space Wolves" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" revision="37" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur/Mad Spy">
   <catalogueLinks>
     <catalogueLink type="catalogue" name="Imperium - Space Marines" id="cb5b-3605-7522-c561" targetId="e0af-67df-9d63-8fb7" importRootEntries="true"/>
@@ -38,7 +38,7 @@
       <profiles>
         <profile name="Logan Grimnar" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="1b7a-10b3-732f-dd01">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">6</characteristic>
@@ -87,7 +87,7 @@
       <profiles>
         <profile name="Logan Grimnar on Stormrider" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7e72-e1e1-e0a2-a056">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">12</characteristic>
@@ -202,7 +202,7 @@
       <profiles>
         <profile name="Njal Stormcaller" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="71fd-44bd-50f0-ea99">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
@@ -278,7 +278,7 @@
           <profiles>
             <profile name="➤ Living Lightning - witchfire" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e25f-aad0-174c-6f8c">
               <characteristics>
-                <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+                <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -289,7 +289,7 @@
             </profile>
             <profile name="➤ Living Lightning - focused witchfire" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="4d32-a360-20a0-65e7">
               <characteristics>
-                <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+                <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">2D6</characteristic>
                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -344,7 +344,7 @@
       <profiles>
         <profile name="Bjorn the Fell-Handed" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9e5d-15d4-400d-8490">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">9</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">8</characteristic>
@@ -407,7 +407,7 @@
               <profiles>
                 <profile name="Assault cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="724c-11f2-3970-9223">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">6</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
@@ -425,7 +425,7 @@
               <profiles>
                 <profile name="➤ Heavy plasma cannon - standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="7c53-1367-fef4-8903">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -436,7 +436,7 @@
                 </profile>
                 <profile name="➤ Heavy plasma cannon - supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="63d9-6484-c45b-d61">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -458,7 +458,7 @@
               <profiles>
                 <profile name="Multi-melta" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="199-66ef-e9b4-81e2">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">18"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -476,7 +476,7 @@
               <profiles>
                 <profile name="Twin lascannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="bf04-921e-5a56-47ae">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">48&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">48"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">12</characteristic>
@@ -491,7 +491,7 @@
               <profiles>
                 <profile name="➤ Helfrost cannon - dispersed" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="5241-8af7-d7e9-6b19">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
@@ -502,7 +502,7 @@
                 </profile>
                 <profile name="➤ Helfrost cannon - focused" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="d1c1-a421-f47f-26ef">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -534,46 +534,6 @@
         <categoryLink targetId="740a-892c-8958-defa" id="821c-30e2-1fc4-c01e" primary="false" name="Terminator"/>
         <categoryLink targetId="88ee-e662-b0c6-43cd" id="d85a-feba-1249-defb" primary="false" name="Arjac Rockfist"/>
       </categoryLinks>
-      <infoLinks>
-        <infoLink name="Deep Strike" hidden="false" type="rule" id="d192-5a49-bce3-4eff" targetId="7cb5-dd6b-dd87-ad3b"/>
-        <infoLink name="Invulnerable Save" hidden="false" type="profile" id="f455-7682-301d-c6dc" targetId="db19-dee7-9530-ef0e"/>
-        <infoLink name="Leader" hidden="false" type="rule" id="8d8f-cc91-78eb-3179" targetId="b4dd-3e1f-41cb-218f"/>
-        <infoLink name="Oath of Moment" hidden="false" type="rule" id="7ba8-31b8-6ca6-b113" targetId="3b76-4053-ece9-6e7d"/>
-      </infoLinks>
-      <profiles>
-        <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8970-5680-4afc-a67d">
-          <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
-
-■ Relic Terminator Squad
-■ Terminator Assault Squad
-■ Terminator Squad
-■ Wolf Guard Terminators
-
-You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="Arjac Rockfist" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="e310-d3d-aaca-eaac">
-          <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
-            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
-            <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
-            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">6</characteristic>
-            <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
-            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">1</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="Anvil of Endurance" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="6d1-52cc-8cb0-740c">
-          <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength.</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="Champion of the Kingsguard" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d65d-22ee-7d91-448a">
-          <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">You can target this model with the Epic Challenge Stratagem for 0CP. In addition, each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll.</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Foehammer" hidden="false" id="1d31-8502-403e-75b8">
           <constraints>
@@ -594,7 +554,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             </profile>
             <profile name="Foehammer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="2f1b-d727-df9d-7049">
               <characteristics>
-                <characteristic name="Range" typeId="9896-9419-16a1-92fc">6&quot;</characteristic>
+                <characteristic name="Range" typeId="9896-9419-16a1-92fc">6"</characteristic>
                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -613,7 +573,8 @@ You can attach this model to one of the above units even if one Captain or Chap
       <entryLinks>
         <entryLink import="true" name="Warlord" hidden="false" type="selectionEntry" id="2623-5127-398d-59a7" targetId="caa-f869-3cbd-b48e"/>
       </entryLinks>
-    </selectionEntry>
+    <profiles><profile name="Arjac Rockfist" typeName="Unit"><characteristics><characteristic name="M">6</characteristic><characteristic name="T">5</characteristic><characteristic name="Sv">2+</characteristic><characteristic name="W">6</characteristic><characteristic name="Ld">6</characteristic><characteristic name="OC">1</characteristic><characteristic name="Invulnerable Save">4+</characteristic></characteristics></profile><profile name="Foehammer" typeName="Weapon"><characteristics><characteristic name="Range">6"</characteristic><characteristic name="A">1</characteristic><characteristic name="BS">2+</characteristic><characteristic name="S">8</characteristic><characteristic name="AP">-2</characteristic><characteristic name="D">3</characteristic><characteristic name="Keywords">Anti-Monster 3+, Anti-Vehicle 3+, Assault</characteristic></characteristics></profile><profile name="Foehammer (Melee)" typeName="Weapon"><characteristics><characteristic name="Range">Melee</characteristic><characteristic name="A">5</characteristic><characteristic name="WS">2+</characteristic><characteristic name="S">8</characteristic><characteristic name="AP">-2</characteristic><characteristic name="D">3</characteristic><characteristic name="Keywords">Anti-Monster 3+, Anti-Vehicle 3+, Precision</characteristic></characteristics></profile></profiles><categories><categoryEntry name="Infantry"/><categoryEntry name="Character"/><categoryEntry name="Epic Hero"/><categoryEntry name="Imperium"/><categoryEntry name="Terminator"/><categoryEntry name="Arjac Rockfist"/><categoryEntry name="Adeptus Astartes"/><categoryEntry name="Space Wolves"/></categories><infoLinks><infoLink name="Unit Composition"><description>1 Arjac Rockfist - Epic Hero
+This model is equipped with: Foehammer</description></infoLink><infoLink name="Leader"><description>This model can be attached to the following unit: Wolf Guard Terminators</description></infoLink></infoLinks><infoGroups><infoGroup name="Abilities"><infoLink name="Core"><description>Deep Strike, Leader</description></infoLink><infoLink name="Faction"><description>Oath of Moment</description></infoLink><infoLink name="Anvil of Endurance"><description>While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.</description></infoLink><infoLink name="Champion of the Kingsguard"><description>Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll.</description></infoLink></infoGroup></infoGroups></selectionEntry>
     <selectionEntry type="model" import="true" name="Ulrik the Slayer" hidden="false" id="fc7c-83a5-7106-41ab">
       <infoLinks>
         <infoLink name="Leader" hidden="false" type="rule" id="1116-112f-8637-63ec" targetId="b4dd-3e1f-41cb-218f"/>
@@ -631,7 +592,7 @@ You can attach this model to one of the above units even if one Captain or Chap
       <profiles>
         <profile name="Ulrik the Slayer" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="ee87-20a5-e9f8-62de">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -646,7 +607,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Wolf Helm of Russ (Aura)" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="cb7c-4cf7-7a05-2df4">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly ADEPTUS ASTARTES unit is within 6&quot; of this model, models in that unit have a Leadership characteristic of 5+.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly ADEPTUS ASTARTES unit is within 6" of this model, models in that unit have a Leadership characteristic of 5+.</characteristic>
           </characteristics>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="34a6-5bd7-33e-6271">
@@ -669,7 +630,7 @@ You can attach this model to one of the above units even if one Captain or Chap
           <profiles>
             <profile id="e028-c31-4247-2e0c" name="➤ Plasma pistol - standard" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
               <characteristics>
-                <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -680,7 +641,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             </profile>
             <profile id="19a0-eee1-46f0-b977" name="➤ Plasma pistol - supercharge" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
               <characteristics>
-                <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -798,7 +759,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Ragnar Blackmane" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="d0d6-3ed8-55a8-8563">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4+</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
@@ -850,7 +811,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Krom Dragongaze" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6ebc-cdeb-19d5-588e">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -865,7 +826,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="The Fierce Eye" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="6826-5564-30f4-5ea2">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, you can select one enemy INFANTRY unit within 12&quot; of and visible to this model. That enemy unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, you can select one enemy INFANTRY unit within 12" of and visible to this model. That enemy unit must take a Battle-shock test.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -933,7 +894,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Harald Deathwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="d9a1-e979-6075-5ad7">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">7</characteristic>
@@ -1059,7 +1020,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Canis Wolfborn" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="871a-3f5b-9f01-1f82">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">6</characteristic>
@@ -1090,7 +1051,7 @@ You can attach this model to one of the above units even if one Captain or Chap
           <profiles>
             <profile id="a267-b7da-479-8b7e" name="Bolt pistol" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
               <characteristics>
-                <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">5+</characteristic>
                 <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -1141,7 +1102,7 @@ You can attach this model to one of the above units even if one Captain or Chap
       <profiles>
         <profile name="Wolf Guard Battle Leader in Terminator Armour" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cfa2-d925-5f07-c708">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
@@ -1220,7 +1181,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                   <profiles>
                     <profile name="Combi-weapon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="b085-6b73-ad84-91d">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -1506,7 +1467,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Wolf Lord on Thunderwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6c2c-dc70-9a20-38b8">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">6</characteristic>
@@ -1791,7 +1752,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile name="Wolf Guard Battle Leader on Thunderwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6010-e44c-164f-2f49">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
@@ -1801,7 +1762,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile name="Aggressive Hunter" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="99f6-269c-8ded-17a">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, in your opponent’s Shooting phase, after an enemy unit has finished making its attacks, if this model’s unit was targeted by one or more of those attacks, this model’s unit can make a Normal move of up to D6&quot;, but must end that move as close as possible to the closest enemy unit. When doing so, models in this model’s unit can be moved within Engagement Range of that enemy unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, in your opponent’s Shooting phase, after an enemy unit has finished making its attacks, if this model’s unit was targeted by one or more of those attacks, this model’s unit can make a Normal move of up to D6", but must end that move as close as possible to the closest enemy unit. When doing so, models in this model’s unit can be moved within Engagement Range of that enemy unit.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2068,7 +2029,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Combi-weapon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" id="aa18-fb54-7530-8818">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -2089,7 +2050,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Storm bolter" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" id="77f0-d479-d1e8-1b2">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -2124,7 +2085,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile id="f264-ea62-cda0-febf" name="➤ Plasma pistol - supercharge" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -2135,7 +2096,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile id="cbd1-4462-91ab-3f64" name="➤ Plasma pistol - standard" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -2238,7 +2199,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <profiles>
             <profile name="Blood Claw Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="328a-eb2e-1553-a7ad">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2277,7 +2238,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Blood Claws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="2fc8-3e28-c9b2-a9bb">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2311,7 +2272,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Blood Claws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cae4-6591-d4e5-a138">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2338,7 +2299,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Blood Claws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="4b3b-9bda-4668-8075">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2365,7 +2326,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Blood Claws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="182c-8376-ab87-f1e6">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2392,7 +2353,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Blood Claws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7fce-f1c4-585c-7f67">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2614,7 +2575,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <profiles>
             <profile name="Grey Hunter Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cdaa-a3fe-a250-1071">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2654,7 +2615,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Grey Hunters" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="be97-e47e-f325-9bde">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2691,7 +2652,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Grey Hunters" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cf1f-f5f8-e71d-1df8">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2740,7 +2701,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Grey Hunters" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="1cda-e974-b8d0-793b">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2774,7 +2735,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Grey Hunters" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="d1c7-5104-acd0-fe8a">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -2906,7 +2867,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Flamer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="49f6-87d9-4499-dd54">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -2929,7 +2890,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Grav-gun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="f6c-15a-c64f-8979">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">18"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">5</characteristic>
@@ -2951,7 +2912,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Meltagun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="215c-b2ee-f965-7036">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -2973,7 +2934,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="➤ Plasma gun - standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="f04-2a57-6bfc-e38e">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -2984,7 +2945,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile name="➤ Plasma gun - supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c647-2af9-f5bb-73fd">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -3058,7 +3019,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="dfa0-fbe6-1f3c-c86d">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3092,7 +3053,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="bf54-3d16-257d-b58a">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3126,7 +3087,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6559-1485-b884-0239">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3160,7 +3121,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f8c1-932f-7fce-f1dd">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3196,7 +3157,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="273c-f155-b88-6d36">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3230,7 +3191,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="3469-cc8a-8f5d-db15">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3356,7 +3317,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Combi-weapon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" id="2ddc-1cd9-6358-3581">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -3377,7 +3338,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile id="463f-3356-9c0c-6dd3" name="➤ Plasma pistol - supercharge" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -3388,7 +3349,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile id="d0c3-4572-5e37-b039" name="➤ Plasma pistol - standard" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -3425,7 +3386,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Lukas the Trickster" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="8277-f462-259b-41ac">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -3580,7 +3541,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                           <profiles>
                             <profile name="Combi-weapon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="f242-4262-1ab0-db8a">
                               <characteristics>
-                                <characteristic name="Range" hidden="false" id="7ba-700-c96-9649" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+                                <characteristic name="Range" hidden="false" id="7ba-700-c96-9649" typeId="9896-9419-16a1-92fc">24"</characteristic>
                                 <characteristic name="A" hidden="false" id="a77a-9ca3-61dc-7071" typeId="3bb-c35f-f54-fb08">1</characteristic>
                                 <characteristic name="BS" hidden="false" id="5c52-5cb4-6dd3-ea2a" typeId="94d-8a98-cf90-183e">4+</characteristic>
                                 <characteristic name="S" hidden="false" id="7676-53c4-e4e0-5836" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -3626,7 +3587,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard Terminators" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="53e9-9024-f706-ff18">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">3</characteristic>
@@ -3702,7 +3663,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                           <profiles>
                             <profile name="➤ Cyclone missile launcher - frag" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="3b72-1618-bf67-a6cb">
                               <characteristics>
-                                <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                                <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">2D6</characteristic>
                                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                                 <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -3713,7 +3674,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                             </profile>
                             <profile name="➤ Cyclone missile launcher - krak" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="4266-fe62-85e3-497f">
                               <characteristics>
-                                <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                                <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                                 <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
                                 <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                                 <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -3739,7 +3700,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wolf Guard Terminators" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="e7a0-5f0e-405c-8d50">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">3</characteristic>
@@ -3885,7 +3846,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <profiles>
             <profile name="Wolf Guard Terminator Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="b013-68ca-96db-717f">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">3</characteristic>
@@ -4016,7 +3977,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Storm Bolter" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" id="8b94-15e4-ad55-66c3">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -4164,7 +4125,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Morkai bolt pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="f039-e1f4-5f8c-5186">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -4218,7 +4179,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Hounds of Morkai" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="b9a9-e89f-a51a-37c">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -4234,7 +4195,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Morkai’s Howl" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="1036-9395-903e-6420">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, you can select one enemy unit within 12&quot; of this unit (if a LIEUTENANT IN REIVER ARMOUR is leading this unit, you can select one enemy unit within 18&quot; instead). That unit must take a Battle-shock test, subtracting 1 from the result if it is a PSYKER unit. If that test is failed, in addition to being Battle-shocked, that unit is Stunned until the start of your next Shooting phase. While a unit is Stunned, each time a model in that unit makes a Psychic Attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, you can select one enemy unit within 12" of this unit (if a LIEUTENANT IN REIVER ARMOUR is leading this unit, you can select one enemy unit within 18" instead). That unit must take a Battle-shock test, subtracting 1 from the result if it is a PSYKER unit. If that test is failed, in addition to being Battle-shocked, that unit is Stunned until the start of your next Shooting phase. While a unit is Stunned, each time a model in that unit makes a Psychic Attack, subtract 1 from the Hit roll.</characteristic>
           </characteristics>
         </profile>
         <profile name="Invulnerable Save" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="4857-fa29-6537-4d5d">
@@ -4385,7 +4346,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wulfen" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="b9e4-9c5c-e773-372a">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -4411,7 +4372,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wulfen" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="e500-42b0-cc7f-275e">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -4436,7 +4397,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wulfen" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="eccc-c07c-8efd-1429">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -4467,7 +4428,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Wulfen" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7961-3801-c70a-6cb0">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -4583,7 +4544,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Stormfrag auto-launcher" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="dbed-e2c5-a8b2-c952">
           <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
             <characteristic name="BS" typeId="94d-8a98-cf90-183e">5+</characteristic>
             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -4614,7 +4575,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Wulfen Dreadnought" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="77af-6fe4-d935-e125">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">9</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">8</characteristic>
@@ -4831,7 +4792,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Murderfang" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="60e4-3f4e-cbb9-c31b">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">8"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">9</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">8</characteristic>
@@ -4961,7 +4922,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Thunderwolf Cavalry" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="bc8d-8c26-0d94-5eec">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -5000,7 +4961,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Thunderwolf Cavalry" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="446e-cc56-9478-a3e6">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -5031,7 +4992,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Thunderwolf Cavalry" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7d9a-27fc-f00c-1738">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -5071,7 +5032,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Thunderwolf Cavalry" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="5e10-c2a-3001-85b">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -5276,7 +5237,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Fenrisian Wolves" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="8de3-d1f3-dc0b-a316">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">6+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">1</characteristic>
@@ -5465,7 +5426,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <profiles>
             <profile name="Skyclaw Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="fd01-f7ef-af3a-f1bf">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5504,7 +5465,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Skyclaws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7ee8-c2cf-7805-d85a">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5541,7 +5502,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Skyclaws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="754b-6ca9-08bb-97f4">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5562,7 +5523,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Skyclaws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7dcd-4205-4264-168e">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5583,7 +5544,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Skyclaws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="12aa-14c5-aaba-1320">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5604,7 +5565,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Skyclaws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cad3-4957-3020-59f0">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5625,7 +5586,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Skyclaws" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9ffb-4be0-62a1-0f4c">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5793,7 +5754,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7777-0f53-68e4-8532">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5821,7 +5782,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Lascannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9b72-ed1c-44a9-c1a5">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">12</characteristic>
@@ -5843,7 +5804,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="c906-81a9-a9ec-15b0">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5871,7 +5832,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Heavy bolter" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="5dff-1db8-f5a8-d7ac">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">5</characteristic>
@@ -5894,7 +5855,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="c8ca-eab8-2305-5fed">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5922,7 +5883,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Grav-cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c29b-76df-30a5-abf3">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">24"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
@@ -5945,7 +5906,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="88cb-d268-77ca-643c">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5973,7 +5934,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="➤ Missile launcher - frag" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="f397-5139-33e7-62e8">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -5984,7 +5945,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                     </profile>
                     <profile name="➤ Missile launcher - krak" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a6fe-12-e198-ae14">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -6007,7 +5968,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9099-d14b-b53e-68a8">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -6035,7 +5996,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="➤ Plasma cannon - standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="8034-248f-3b28-5d1">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -6046,7 +6007,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                     </profile>
                     <profile name="➤ Plasma cannon - supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="96b8-4e76-9d30-6934">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -6070,7 +6031,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="ef23-f5a8-d6bc-21ea">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -6098,7 +6059,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Multi-melta" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9a9-c1d9-debb-e1dc">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">18"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -6121,7 +6082,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="a285-36d1-d6d1-dda8">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -6149,7 +6110,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Heavy flamer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="daf1-d948-fadf-ab07">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">5</characteristic>
@@ -6173,7 +6134,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="79e8-ac62-06f5-38da">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -6293,7 +6254,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <profiles>
             <profile name="Long Fang Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="3188-88ba-5a7-2529">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -6412,7 +6373,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Stormfang Gunship" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="d6d1-fa39-d773-468">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">20+&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">20+"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">10</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">14</characteristic>
@@ -6462,7 +6423,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="➤ Helfrost destructor - dispersed" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="ea3f-1db5-a2e-bc19">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">11</characteristic>
@@ -6473,7 +6434,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                 </profile>
                 <profile name="➤ Helfrost destructor - focused" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="5803-c210-5535-dcdd">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6+6</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -6503,7 +6464,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                   <profiles>
                     <profile name="Twin stormstrike missile launcher" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="772f-567b-e3fb-e2">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">48"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">10</characteristic>
@@ -6675,7 +6636,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile name="Stormwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="d627-a425-9ac8-7051">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">20+&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">20+"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">10</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">14</characteristic>
@@ -6726,7 +6687,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
               <profiles>
                 <profile name="➤ Twin helfrost cannon - dispersed" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="bda4-8f56-33d9-5dd1">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
@@ -6737,7 +6698,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
                 </profile>
                 <profile name="➤ Twin helfrost cannon - focused" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="809b-af8e-315a-9df1">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -6904,7 +6865,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
       <profiles>
         <profile name="Wolf Guard Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="3b89-96b8-7968-23b3">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -7203,7 +7164,7 @@ You must attach this model to one of the above units, and can do so even if one
       <profiles>
         <profile name="Wolf Guard Pack Leader with Jump Pack" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f764-d596-66e0-98ea">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -7499,7 +7460,7 @@ You must attach this model to one of the above units, and can do so even if one
         </profile>
         <profile name="Wolf Guard Pack Leader in Terminator Armour" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="8a9a-3c8a-8fc0-a130">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">3</characteristic>
@@ -7560,7 +7521,7 @@ You must attach this model to one of the above units, and can do so even if one
                   <profiles>
                     <profile name="➤ Cyclone missile launcher - frag" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="76a-b90c-3f05-15">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">2D6</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -7571,7 +7532,7 @@ You must attach this model to one of the above units, and can do so even if one
                     </profile>
                     <profile name="➤ Cyclone missile launcher - krak" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="3071-2a15-e1b7-8139">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -7875,7 +7836,7 @@ You must attach this model to one of the above units, and can do so even if one
       <profiles>
         <profile name="Iron Priest" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="96ee-e22b-177e-ebb0">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
@@ -7885,17 +7846,17 @@ You must attach this model to one of the above units, and can do so even if one
         </profile>
         <profile name="Iron Priest" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="c945-4824-a8ed-3a20">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is within 3&quot; of one or more friendly ADEPTUS ASTARTES VEHICLE units, this model has the Lone Operative ability</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is within 3" of one or more friendly ADEPTUS ASTARTES VEHICLE units, this model has the Lone Operative ability</characteristic>
           </characteristics>
         </profile>
         <profile name="Blessing of the Omnissiah" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="41bc-61e5-b4dc-1194">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select one friendly ADEPTUS ASTARTES VEHICLE model within 3&quot; of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select one friendly ADEPTUS ASTARTES VEHICLE model within 3" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.</characteristic>
           </characteristics>
         </profile>
         <profile name="Vengeance of the Omnissiah" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="870f-437e-5b7f-2bc7">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a friendly ADEPTUS ASTARTES VEHICLE model is destroyed within 12&quot; of this model, until the end of the battle, this model’s tempest hammer has an Attacks characteristic of 6.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a friendly ADEPTUS ASTARTES VEHICLE model is destroyed within 12" of this model, until the end of the battle, this model’s tempest hammer has an Attacks characteristic of 6.</characteristic>
           </characteristics>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="32b3-ea87-484-39ec">
@@ -8000,7 +7961,7 @@ You must attach this model to one of the above units, and can do so even if one
               <profiles>
                 <profile name="➤ Helfrost pistol - dispersed" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c9b4-f19-237d-a61a">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">3</characteristic>
@@ -8011,7 +7972,7 @@ You must attach this model to one of the above units, and can do so even if one
                 </profile>
                 <profile name="➤ Helfrost pistol - focused" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="f115-8359-22b0-30b0">
                   <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                     <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                     <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
@@ -8095,7 +8056,7 @@ You must attach this model to one of the above units, and can do so even if one
       <profiles>
         <profile name="Cyberwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="2305-ebf6-adbd-167a">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">6+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8105,7 +8066,7 @@ You must attach this model to one of the above units, and can do so even if one
         </profile>
         <profile name="Alpha Hunter" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a604-c6af-7cb8-ba38">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Scouts 6&quot; ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Scouts 6" ability.</characteristic>
           </characteristics>
         </profile>
         <profile name="Close In for the Kill" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="fa50-4758-2b95-c8ca">
@@ -8269,7 +8230,7 @@ You must attach this model to the above unit, even if Canis Wolfborn has been a
       <profiles>
         <profile name="Guerrilla Tactics" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="b6f9-ad81-d699-ab36">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s turn, if this unit is more than 6&quot; away from all enemy models, you can remove this unit from the battlefield and place it into
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s turn, if this unit is more than 6" away from all enemy models, you can remove this unit from the battlefield and place it into
 Strategic Reserves.</characteristic>
           </characteristics>
         </profile>
@@ -8368,7 +8329,7 @@ Strategic Reserves.</characteristic>
                       <profiles>
                         <profile name="Grav-pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="54d7-3773-e4e7-9679">
                           <characteristics>
-                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
+                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">18"</characteristic>
                             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                             <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -8390,7 +8351,7 @@ Strategic Reserves.</characteristic>
                       <profiles>
                         <profile name="Hand flamer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="52ac-b2d4-b971-2992">
                           <characteristics>
-                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                             <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                             <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                             <characteristic name="S" typeId="2229-f494-25db-c5d3">3</characteristic>
@@ -8412,7 +8373,7 @@ Strategic Reserves.</characteristic>
                       <profiles>
                         <profile name="Inferno pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a20e-df8a-71ac-da4f">
                           <characteristics>
-                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">6&quot;</characteristic>
+                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">6"</characteristic>
                             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                             <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                             <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -8515,7 +8476,7 @@ Strategic Reserves.</characteristic>
           <profiles>
             <profile name="Wolf Scout Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="c3fd-31cd-dcd7-5d57">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8560,7 +8521,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="2f50-9685-15ca-cdac">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8597,7 +8558,7 @@ Strategic Reserves.</characteristic>
                   <profiles>
                     <profile name="Astartes shotgun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c3f2-cb29-ae81-6c38">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">18"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
@@ -8615,7 +8576,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f38d-9a2d-a756-9c23">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8667,7 +8628,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f5bd-ed16-a413-cf37">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8714,7 +8675,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cec4-b532-3cc1-43e9">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8755,7 +8716,7 @@ Strategic Reserves.</characteristic>
                   <profiles>
                     <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="95ca-4eb0-b6e5-15ae">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8788,7 +8749,7 @@ Strategic Reserves.</characteristic>
                   <profiles>
                     <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="37f6-da7b-0161-0875">
                       <characteristics>
-                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                        <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
                         <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                         <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                         <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8907,7 +8868,7 @@ Strategic Reserves.</characteristic>
       <profiles>
         <profile name="Space Wolves Venerable Dreadnought" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="1db5-bc5d-84c8-f65">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">9</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">8</characteristic>
@@ -8917,7 +8878,7 @@ Strategic Reserves.</characteristic>
         </profile>
         <profile name="Wisdom of the Ancients (Aura)" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="979-e7d1-937c-d5f0">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly ADEPTUS ASTARTES INFANTRY unit is within 6&quot; of this model, each time a model in that unit makes an attack, re-roll a hit roll of 1 and re-roll a Wound roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly ADEPTUS ASTARTES INFANTRY unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a hit roll of 1 and re-roll a Wound roll of 1.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -9006,7 +8967,7 @@ Strategic Reserves.</characteristic>
                   <profiles>
                     <profile name="➤ Plasma cannon - standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="655c-72e0-1ad1-583a">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
@@ -9017,7 +8978,7 @@ Strategic Reserves.</characteristic>
                     </profile>
                     <profile name="➤ Plasma cannon - supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="40ab-6479-d748-a169">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
@@ -9039,7 +9000,7 @@ Strategic Reserves.</characteristic>
                   <profiles>
                     <profile name="➤ Helfrost cannon - dispersed" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="588a-e63e-738d-e9c8">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D6</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
@@ -9050,7 +9011,7 @@ Strategic Reserves.</characteristic>
                     </profile>
                     <profile name="➤ Helfrost cannon - focused" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9a14-199f-feda-9419">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">9</characteristic>
@@ -9321,7 +9282,7 @@ Strategic Reserves.</characteristic>
       <profiles>
         <profile name="Vengeance of the Omnissiah" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="29a1-b246-bd11-df46">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a friendly ADEPTUS ASTARTES VEHICLE model is destroyed within 12&quot; of this model, until the end of the battle, this model’s Iron Priest hammer has an Attacks characteristic of 6.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a friendly ADEPTUS ASTARTES VEHICLE model is destroyed within 12" of this model, until the end of the battle, this model’s Iron Priest hammer has an Attacks characteristic of 6.</characteristic>
           </characteristics>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a6ac-110a-f003-1aac">
@@ -9333,17 +9294,17 @@ Strategic Reserves.</characteristic>
         </profile>
         <profile name="Iron Priest" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="79ad-deaa-12d1-10e5">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is within 3&quot; of one or more friendly ADEPTUS ASTARTES VEHICLE units, this model has the Lone Operative ability</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is within 3" of one or more friendly ADEPTUS ASTARTES VEHICLE units, this model has the Lone Operative ability</characteristic>
           </characteristics>
         </profile>
         <profile name="Blessing of the Omnissiah" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="47d6-60fd-3fc0-91d8">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select one friendly ADEPTUS ASTARTES VEHICLE model within 3&quot; of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select one friendly ADEPTUS ASTARTES VEHICLE model within 3" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.</characteristic>
           </characteristics>
         </profile>
         <profile name="Iron Priest on Thunderwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9277-3d58-f8f4-91a9">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10"</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">6</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
@@ -9422,7 +9383,7 @@ Strategic Reserves.</characteristic>
                   <profiles>
                     <profile name="➤ Helfrost pistol - dispersed" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="5577-2fbc-c360-aaa">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">N/A</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">3</characteristic>
@@ -9433,7 +9394,7 @@ Strategic Reserves.</characteristic>
                     </profile>
                     <profile name="➤ Helfrost pistol - focused" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="60ca-e862-292d-d5dd">
                       <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">12"</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
                         <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
                         <characteristic name="S" typeId="2229-f494-25db-c5d3">6</characteristic>
